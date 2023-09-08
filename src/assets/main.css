@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --mt-red: #d4302e;
+  --mt-brown: #c1a25a;
+  --mt-dark-blue: #101c42;
+}
+#app {
+  height: 100vh;
+  color: #fff;
+}
