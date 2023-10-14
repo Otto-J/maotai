@@ -146,7 +146,7 @@ watchEffect(() => {
           class="w-full px-4 py-2 rounded-md border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
           type="text"
           id="input1"
-          maxlength="15"
+      
           v-model="h2"
           placeholder="请输入内容"
         />
@@ -157,7 +157,7 @@ watchEffect(() => {
           class="outline-1 color-dark-blue w-full px-4 py-2 rounded-md border-gray-300 focus:ring-indigo-500 focus:border-indigo-500"
           type="text"
           id="input2"
-          maxlength="5"
+  
           v-model="h1"
           placeholder="请输入内容"
         />
